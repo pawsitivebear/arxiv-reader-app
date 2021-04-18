@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 ##title: ![logo](/image/icon.png)
-##title: ARXIV READER
-title: Arxiv Reader - An App for consulting the Arvix database for Android - Mac-os (future)
-description: ![logo](/image/icon.png) 
+title: ARXIV READER
+##title: Arxiv Reader - An App for consulting the Arvix database for Android - Mac-os (future)
+description: An App for consulting the Arvix database for Android - Mac-os (future)
 name: ARXIV READER
 github:
   is_project_page: false
