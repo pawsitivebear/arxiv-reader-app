@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## ARXIV READER
+Arxiv Reade is an app for consulting the database of Arxiv.com using their API, for now we have the app for Android, you can download it in the [playstore](https//playstore.com/)
 
-You can use the [editor on GitHub](https://github.com/pawsitivebear/arxiv-reader-app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This app is free to use, if you find it useful and want to support the development you can donate here --> [![donate](/image/donate.png)](https://donorbox.org/pawsitivebear-arxivr)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### DEVELOPMENT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pawsitivebear/arxiv-reader-app/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+####This app uses:
+ -  **[Python](https://www.python.org)**
+ -  **[Kivy](https://www.kivy.org)** -> you can learn kivy to develop your applications for multiple platforms, is easy and powerful
+ -  **[Arxiv.com](https://www.arxiv.org)** API
+ -  **[Feedparser](https://pypi.org/project/feedparser/)** (python library used for pasing the arxiv API)
+ -  **[Pylatexenc](https://pypi.org/project/pylatexenc/)** 
