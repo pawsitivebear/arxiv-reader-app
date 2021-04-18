@@ -1,7 +1,7 @@
 ## ARXIV READER
 Arxiv Reade is an app for consulting the database of Arxiv.com using their API, for now we have the app for Android, you can download it in the [playstore](https//playstore.com/)
 
-This app is free to use, if you find it useful and want to support the development you can donate here --> [![donate](/image/donate.png)](https://donorbox.org/pawsitivebear-arxivr)
+This app is free to use, if you find it useful and want to support the development you can donate here --> [![donate](/donate.png)](https://donorbox.org/pawsitivebear-arxivr)
 
 
 ### DEVELOPMENT
